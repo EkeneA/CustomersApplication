@@ -1,0 +1,11 @@
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Shared\bin\Debug\net8.0\CustomersApplication.Shared.deps.json
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Shared\bin\Debug\net8.0\CustomersApplication.Shared.dll
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Shared\bin\Debug\net8.0\CustomersApplication.Shared.pdb
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Shared\obj\Debug\net8.0\CustomersApplication.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Shared\obj\Debug\net8.0\CustomersApplication.Shared.AssemblyInfoInputs.cache
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Shared\obj\Debug\net8.0\CustomersApplication.Shared.AssemblyInfo.cs
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Shared\obj\Debug\net8.0\CustomersApplication.Shared.csproj.CoreCompileInputs.cache
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Shared\obj\Debug\net8.0\CustomersApplication.Shared.dll
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Shared\obj\Debug\net8.0\refint\CustomersApplication.Shared.dll
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Shared\obj\Debug\net8.0\CustomersApplication.Shared.pdb
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Shared\obj\Debug\net8.0\ref\CustomersApplication.Shared.dll

@@ -1,0 +1,308 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Web\\CustomersApplication.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Buisness\\CustomersApplication.Buisness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Buisness\\CustomersApplication.Buisness.csproj",
+        "projectName": "CustomersApplication.Buisness",
+        "projectPath": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Buisness\\CustomersApplication.Buisness.csproj",
+        "packagesPath": "C:\\Users\\eamaechi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Buisness\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eamaechi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SDInternational/_packaging/FrasersSharedPackages%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Core\\CustomersApplication.Core.csproj": {
+                "projectPath": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Core\\CustomersApplication.Core.csproj"
+              },
+              "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Shared\\CustomersApplication.Shared.csproj": {
+                "projectPath": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Shared\\CustomersApplication.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Core\\CustomersApplication.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Core\\CustomersApplication.Core.csproj",
+        "projectName": "CustomersApplication.Core",
+        "projectPath": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Core\\CustomersApplication.Core.csproj",
+        "packagesPath": "C:\\Users\\eamaechi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eamaechi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SDInternational/_packaging/FrasersSharedPackages%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Shared\\CustomersApplication.Shared.csproj": {
+                "projectPath": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Shared\\CustomersApplication.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Shared\\CustomersApplication.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Shared\\CustomersApplication.Shared.csproj",
+        "projectName": "CustomersApplication.Shared",
+        "projectPath": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Shared\\CustomersApplication.Shared.csproj",
+        "packagesPath": "C:\\Users\\eamaechi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eamaechi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SDInternational/_packaging/FrasersSharedPackages%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Web\\CustomersApplication.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Web\\CustomersApplication.Web.csproj",
+        "projectName": "CustomersApplication.Web",
+        "projectPath": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Web\\CustomersApplication.Web.csproj",
+        "packagesPath": "C:\\Users\\eamaechi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eamaechi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/SDInternational/_packaging/FrasersSharedPackages%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Buisness\\CustomersApplication.Buisness.csproj": {
+                "projectPath": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Buisness\\CustomersApplication.Buisness.csproj"
+              },
+              "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Core\\CustomersApplication.Core.csproj": {
+                "projectPath": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Core\\CustomersApplication.Core.csproj"
+              },
+              "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Shared\\CustomersApplication.Shared.csproj": {
+                "projectPath": "C:\\Users\\eamaechi\\Source\\Repos\\CustomersApplication\\CustomersApplication.Shared\\CustomersApplication.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

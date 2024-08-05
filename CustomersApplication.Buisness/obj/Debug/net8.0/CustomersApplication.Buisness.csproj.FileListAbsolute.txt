@@ -1,0 +1,17 @@
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Buisness\bin\Debug\net8.0\CustomersApplication.Buisness.deps.json
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Buisness\bin\Debug\net8.0\CustomersApplication.Buisness.dll
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Buisness\bin\Debug\net8.0\CustomersApplication.Buisness.pdb
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Buisness\bin\Debug\net8.0\CustomersApplication.Core.dll
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Buisness\bin\Debug\net8.0\CustomersApplication.Shared.dll
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Buisness\bin\Debug\net8.0\CustomersApplication.Core.pdb
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Buisness\bin\Debug\net8.0\CustomersApplication.Shared.pdb
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Buisness\obj\Debug\net8.0\CustomersApplication.Buisness.csproj.AssemblyReference.cache
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Buisness\obj\Debug\net8.0\CustomersApplication.Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Buisness\obj\Debug\net8.0\CustomersApplication.Buisness.AssemblyInfoInputs.cache
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Buisness\obj\Debug\net8.0\CustomersApplication.Buisness.AssemblyInfo.cs
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Buisness\obj\Debug\net8.0\CustomersApplication.Buisness.csproj.CoreCompileInputs.cache
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Buisness\obj\Debug\net8.0\Customer.DDC4C224.Up2Date
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Buisness\obj\Debug\net8.0\CustomersApplication.Buisness.dll
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Buisness\obj\Debug\net8.0\refint\CustomersApplication.Buisness.dll
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Buisness\obj\Debug\net8.0\CustomersApplication.Buisness.pdb
+C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Buisness\obj\Debug\net8.0\ref\CustomersApplication.Buisness.dll
