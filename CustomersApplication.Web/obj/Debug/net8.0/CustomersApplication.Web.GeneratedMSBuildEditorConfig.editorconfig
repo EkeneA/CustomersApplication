@@ -1,75 +1,64 @@
 is_global = true
 build_property.TargetFramework = net8.0
-build_property.TargetFramework = net8.0
-build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
-build_property.UsingMicrosoftNETSdkWeb = true
-build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
-build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
-build_property.EnforceExtendedAnalyzerRules = 
-build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CustomersApplication.Web
 build_property.RootNamespace = CustomersApplication.Web
-build_property.ProjectDir = C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Web\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.RazorLangVersion = 8.0
+build_property.ProjectDir = /Users/ekeneamaechi/Desktop/Applications/Pinewood/VersionControl/CustomersApplication/CustomersApplication.Web/
+build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\eamaechi\Source\Repos\CustomersApplication\CustomersApplication.Web
+build_property.MSBuildProjectDirectory = /Users/ekeneamaechi/Desktop/Applications/Pinewood/VersionControl/CustomersApplication/CustomersApplication.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/eamaechi/Source/Repos/CustomersApplication/CustomersApplication.Web/Views/Customers/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+[/Users/ekeneamaechi/Desktop/Applications/Pinewood/VersionControl/CustomersApplication/CustomersApplication.Web/Views/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJzL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eamaechi/Source/Repos/CustomersApplication/CustomersApplication.Web/Views/Customers/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+[/Users/ekeneamaechi/Desktop/Applications/Pinewood/VersionControl/CustomersApplication/CustomersApplication.Web/Views/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJzL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eamaechi/Source/Repos/CustomersApplication/CustomersApplication.Web/Views/Customers/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+[/Users/ekeneamaechi/Desktop/Applications/Pinewood/VersionControl/CustomersApplication/CustomersApplication.Web/Views/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJzL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eamaechi/Source/Repos/CustomersApplication/CustomersApplication.Web/Views/Customers/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+[/Users/ekeneamaechi/Desktop/Applications/Pinewood/VersionControl/CustomersApplication/CustomersApplication.Web/Views/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJzL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eamaechi/Source/Repos/CustomersApplication/CustomersApplication.Web/Views/Customers/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXExpc3QuY3NodG1s
+[/Users/ekeneamaechi/Desktop/Applications/Pinewood/VersionControl/CustomersApplication/CustomersApplication.Web/Views/Customers/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXJzL0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eamaechi/Source/Repos/CustomersApplication/CustomersApplication.Web/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/ekeneamaechi/Desktop/Applications/Pinewood/VersionControl/CustomersApplication/CustomersApplication.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eamaechi/Source/Repos/CustomersApplication/CustomersApplication.Web/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/Users/ekeneamaechi/Desktop/Applications/Pinewood/VersionControl/CustomersApplication/CustomersApplication.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eamaechi/Source/Repos/CustomersApplication/CustomersApplication.Web/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/Users/ekeneamaechi/Desktop/Applications/Pinewood/VersionControl/CustomersApplication/CustomersApplication.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eamaechi/Source/Repos/CustomersApplication/CustomersApplication.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/ekeneamaechi/Desktop/Applications/Pinewood/VersionControl/CustomersApplication/CustomersApplication.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eamaechi/Source/Repos/CustomersApplication/CustomersApplication.Web/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/ekeneamaechi/Desktop/Applications/Pinewood/VersionControl/CustomersApplication/CustomersApplication.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eamaechi/Source/Repos/CustomersApplication/CustomersApplication.Web/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/ekeneamaechi/Desktop/Applications/Pinewood/VersionControl/CustomersApplication/CustomersApplication.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eamaechi/Source/Repos/CustomersApplication/CustomersApplication.Web/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-syjgsg2gvp
+[/Users/ekeneamaechi/Desktop/Applications/Pinewood/VersionControl/CustomersApplication/CustomersApplication.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-091owbvpgg
